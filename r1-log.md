@@ -6,3 +6,5 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 ### R1D1 
 Started coding on hackerearth, solved a problem.
+### R1D2 
+Contnued coding on hackerearth, solved String problems.
