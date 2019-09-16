@@ -32,3 +32,12 @@
 
 **Link to work:** [Prime Number](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/prime-number-8/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/basic%20of%20IO/Prime.py)
 
+# 100 Days Of Code - Log
+
+### Day 4: September 16, 2019
+
+**Today's Progress**: I have gone through some practice question in hackerearth
+
+**Thoughts:** Started coding on hackerearth, solved a problem* 
+
+**Link to work:** [Friend Relationship](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/friends-relationship-1/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/basic%20of%20IO/Friend%20Relationship.cpp)
