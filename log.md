@@ -41,3 +41,16 @@
 **Thoughts:** Started coding on hackerearth, solved a problem* 
 
 **Link to work:** [Friend Relationship](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/friends-relationship-1/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/basic%20of%20IO/Friend%20Relationship.cpp)
+
+# 100 Days Of Code - Log
+
+### Day 5: September 17, 2019
+
+**Today's Progress**: I have gone through some practice question in hackerearth
+
+**Thoughts:** Continued coding on hackerearth, solved problems* 
+
+**Link to work:** [Char Sum](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/char-sum-2d3a6ab5/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/basic%20of%20IO/Char%20Sum.py)
+
+**Link to work:** [Roy and Profile Picture](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/roy-and-profile-picture/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/basic%20of%20IO/Roy%20and%20Profile%20Pictur.cpp)
+
