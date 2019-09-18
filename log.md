@@ -54,3 +54,13 @@
 
 **Link to work:** [Roy and Profile Picture](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/roy-and-profile-picture/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/basic%20of%20IO/Roy%20and%20Profile%20Pictur.cpp)
 
+# 100 Days Of Code - Log
+
+### Day 6: September 18, 2019
+
+**Today's Progress**: I have gone through some practice question in hackerearth
+
+**Thoughts:** Continued coding on hackerearth, solved problems* 
+
+**Link to work:** [A+B](https://www.hackerearth.com/practice/basic-programming/complexity-analysis/time-and-space-complexity/practice-problems/algorithm/a-b-4/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/Time%20and%20Space%20Complexity/A%2BB%20.py)
+
