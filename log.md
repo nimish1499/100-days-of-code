@@ -64,3 +64,16 @@
 
 **Link to work:** [A+B](https://www.hackerearth.com/practice/basic-programming/complexity-analysis/time-and-space-complexity/practice-problems/algorithm/a-b-4/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/Time%20and%20Space%20Complexity/A%2BB%20.py)
 
+
+# 100 Days Of Code - Log
+
+### Day 7: September 19, 2019
+
+**Today's Progress**: I have gone through some practice question in hackerearth
+
+**Thoughts:** Continued coding on hackerearth, solved problems* 
+
+**Link to work:** [Lift Queries](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/lift-queries/description/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/basic%20of%20IO/Lift.py)
+
+**Link to work:** [Book of Potion making](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/sum-it-if-you-can-4867f851/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/basic%20of%20IO/Book%20of%20Potion%20Making.py)
+
