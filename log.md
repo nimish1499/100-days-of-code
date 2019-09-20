@@ -77,3 +77,13 @@
 
 **Link to work:** [Book of Potion making](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/sum-it-if-you-can-4867f851/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/basic%20of%20IO/Book%20of%20Potion%20Making.py)
 
+# 100 Days Of Code - Log
+
+### Day 8: September 20, 2019
+
+**Today's Progress**: I have gone through some practice question in hackerearth
+
+**Thoughts:** Continued coding on hackerearth, solved problems* 
+
+**Link to work:** [Cipher](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/cipher-1/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/basic%20of%20IO/Cipher.py)
+
