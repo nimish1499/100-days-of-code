@@ -15,3 +15,15 @@ Continued coding on hackerearth, solved a problem.
 
 ### R1D4
 Contnued coding on hackerearth, solved  problems.
+
+### R1D5 
+Contnued coding on hackerearth, solved String problems.
+
+### R1D6 
+Continued coding on hackerearth, solved a problem.
+
+### R1D7
+Contnued coding on hackerearth, solved  problems.
+
+### R1D8
+Contnued coding on hackerearth, solved  problems.
