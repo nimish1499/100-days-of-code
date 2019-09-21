@@ -87,3 +87,13 @@
 
 **Link to work:** [Cipher](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/cipher-1/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/basic%20of%20IO/Cipher.py)
 
+# 100 Days Of Code - Log
+
+### Day 9: September 21, 2019
+
+**Today's Progress**: I have gone through some practice question in hackerearth
+
+**Thoughts:** Continued coding on hackerearth, solved problems* 
+
+**Link to work:** [Digit Problem](https://github.com/nimish1499/code/blob/master/hackerearth/Basics%20of%20Implementation/Digits.py) [- solution](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/digit-problem/)
+
