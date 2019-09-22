@@ -95,5 +95,5 @@
 
 **Thoughts:** Continued coding on hackerearth, solved problems* 
 
-**Link to work:** [Digit Problem](https://github.com/nimish1499/code/blob/master/hackerearth/Basics%20of%20Implementation/Digits.py) [- solution](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/digit-problem/)
+**Link to work:** [Digit Problem](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/digit-problem/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/Basics%20of%20Implementation/Digits.py)
 
