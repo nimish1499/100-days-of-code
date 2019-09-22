@@ -97,3 +97,14 @@
 
 **Link to work:** [Digit Problem](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/digit-problem/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/Basics%20of%20Implementation/Digits.py)
 
+# 100 Days Of Code - Log
+
+### Day 10: September 22, 2019
+
+**Today's Progress**: I have gone through some practice question in hackerearth
+
+**Thoughts:** Started coding on hackerearth, solved a problem* 
+
+**Link to work:** [Little Jhool](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/psychic-powers/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/Basics%20of%20Implementation/Little%20Jhool.py)
+
+**Link to work:** [Ladderophilia](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/ladderophilia/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/basic%20of%20IO/Ladderophilia.py)
