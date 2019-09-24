@@ -121,3 +121,13 @@
 
 **Link to work:** [Goki Breakup](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/tds-and-his-breakup/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/basic%20of%20IO/Goki%20Relationship.py)
 
+# 100 Days Of Code - Log
+
+### Day 12: September 24, 2019
+
+**Today's Progress**: I have gone through some practice question in hackerearth
+
+**Thoughts:** Started coding on hackerearth, solved a problem* 
+
+**Link to work:** [Factorial](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/find-factorial/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/basic%20of%20IO/Factorial.py)
+
