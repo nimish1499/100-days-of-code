@@ -27,3 +27,18 @@ Contnued coding on hackerearth, solved  problems.
 
 ### R1D8
 Contnued coding on hackerearth, solved  problems.
+
+### R1D9 
+Contnued coding on hackerearth, solved String problems.
+
+### R1D10 
+Continued coding on hackerearth, solved a problem.
+
+### R1D11
+Contnued coding on hackerearth, solved  problems.
+
+### R1D12
+Contnued coding on hackerearth, solved  problems.
+
+### R1D13
+Contnued coding on hackerearth, solved  problems.
