@@ -141,4 +141,25 @@
 
 **Link to work:** [Simran and Stairs](https://www.hackerearth.com/practice/basic-programming/recursion/recursion-and-backtracking/practice-problems/algorithm/simran-and-stairs/description/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/Recursion/Simran%20and%20Stairs.py)
 
+# 100 Days Of Code - Log
+
+### Day 14: September 26, 2019
+
+**Today's Progress**: I have gone through some practice question in hackerearth
+
+**Thoughts:** Continued coding on hackerearth, solved a problem* 
+
+**Link to work:** [Divisibilty](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/divisible-or-not-81b86ad7/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/basic%20of%20IO/Divisibility.py)
+
+# 100 Days Of Code - Log
+
+### Day 15: September 27, 2019
+
+**Today's Progress**: I have gone through a question in hackerearth
+
+**Thoughts:** Continued coding on hackerearth, solved a problem* 
+
+**Link to work:** [Vowel Recognition](https://www.hackerearth.com/practice/basic-programming/complexity-analysis/time-and-space-complexity/practice-problems/algorithm/vowel-game-f1a1047c/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/basic%20of%20IO/Vowel%20Recognition.py)
+
+
 
