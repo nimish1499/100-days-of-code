@@ -159,7 +159,7 @@
 
 **Thoughts:** Continued coding on hackerearth, solved a problem* 
 
-**Link to work:** [Vowel Recognition](https://www.hackerearth.com/practice/basic-programming/complexity-analysis/time-and-space-complexity/practice-problems/algorithm/vowel-game-f1a1047c/) [- solution](https://github.com/nimish1499/code/tree/master/hackerearth/Time%20and%20Space%20Complexity)
+**Link to work:** [Vowel Recognition](https://www.hackerearth.com/practice/basic-programming/complexity-analysis/time-and-space-complexity/practice-problems/algorithm/vowel-game-f1a1047c/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/Time%20and%20Space%20Complexity/Vowel%20Recognition.py)
 
 
 
