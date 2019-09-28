@@ -161,5 +161,15 @@
 
 **Link to work:** [Vowel Recognition](https://www.hackerearth.com/practice/basic-programming/complexity-analysis/time-and-space-complexity/practice-problems/algorithm/vowel-game-f1a1047c/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/Time%20and%20Space%20Complexity/Vowel%20Recognition.py)
 
+# 100 Days Of Code - Log
+
+### Day 16:0 0September 28, 2019
+
+**Today's Progress**: I have gone through a question in hackerearth
+
+**Thoughts:** Continued coding on hackerearth, solved a problem* 
+
+**Link to work:** [Two Strings](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/two-strings-4/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/basic%20of%20IO/Two%20Strings.py)
+
 
 
