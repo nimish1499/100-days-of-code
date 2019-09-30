@@ -181,5 +181,17 @@
 
 **Link to work:** [Find Product](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/find-product/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/basic%20of%20IO/Find%20Product.py)
 
+# 100 Days Of Code - Log
+
+### Day 18: September 30, 2019
+
+**Today's Progress**: I have gone through a question in hackerearth
+
+**Thoughts:** Continued coding on hackerearth, solved a problem* 
+
+**Link to work:** [Divisible](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/divisibe-or-2d8e196a/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/basic%20of%20IO/Divisible.py)
+
+
+
 
 
