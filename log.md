@@ -199,9 +199,19 @@
 
 **Thoughts:** Continued coding on hackerearth, solved a problem* 
 
-**Link to work:** [Anagram](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/anagrams-651/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/basic%20of%20IO/Anagrams.py)
+**Link to work:** [Anagram](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/anagrams-651/) [- solution]
+(https://github.com/nimish1499/code/blob/master/hackerearth/basic%20of%20IO/Anagrams.py)
 
+# 100 Days Of Code - Log
 
+### Day 20: October 2, 2019
+
+**Today's Progress**: I have gone through a question in hackerearth
+
+**Thoughts:** Continued coding on hackerearth, solved a problem* 
+
+**Link to work:** [Anagram](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/seating-arrangement-1/) [- solution]
+(https://github.com/nimish1499/code/tree-save/master/hackerearth/basic%20of%20IO/Seating%20Arrangement.py)
 
 
 
