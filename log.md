@@ -221,6 +221,15 @@
 
 **Link to work:** [Seven Segment Display](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/seven-segment-display-nov-easy-e7f87ce0/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/basic%20of%20IO/Seven%20Segment%20Display.py)
 
+# 100 Days Of Code - Log
+
+### Day 22: October 4, 2019
+
+**Today's Progress**: I have gone through a question in hackerearth
+
+**Thoughts:** Continued coding on hackerearth, solved a problem* 
+
+**Link to work:** [Ali Helping Innocent People](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/cartag-948c2b02/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/basic%20of%20IO/Ali%20Helping%20Innocent%20People.py)
 
 
 
