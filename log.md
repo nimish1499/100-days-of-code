@@ -241,3 +241,12 @@
 
 **Link to work:** [Aman & Mr.Sharma](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/aman-mrsharma/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/basic%20of%20IO/Aman%20%26%20Mr.Sharma.py)
 
+# 100 Days Of Code - Log
+
+### Day 24: October 6, 2019
+
+**Today's Progress**: I have gone through a question in hackerearth
+
+**Thoughts:** Continued coding on hackerearth, solved a problem* 
+
+**Link to work:** [E maze](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/e-maze-in-1aa4e2ac/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/basic%20of%20IO/E%20maze.py)
