@@ -250,3 +250,13 @@
 **Thoughts:** Continued coding on hackerearth, solved a problem* 
 
 **Link to work:** [E maze](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/e-maze-in-1aa4e2ac/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/basic%20of%20IO/E%20maze.py)
+
+# 100 Days Of Code - Log
+
+### Day 25: October 7, 2019
+
+**Today's Progress**: I have gone through a question in hackerearth
+
+**Thoughts:** Continued coding on hackerearth, solved a problem* 
+
+**Link to work:** [Play with Numbers](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/play-with-numbers-2/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/basic%20of%20IO/Play%20with%20Numbers.py)
