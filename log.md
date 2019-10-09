@@ -270,3 +270,13 @@
 **Thoughts:** Continued coding on hackerearth, solved a problem* 
 
 **Link to work:** [Conject it](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/conject-it/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/basic%20of%20IO/Conject-it.py)
+
+# 100 Days Of Code - Log
+
+### Day 27: October 9, 2019
+
+**Today's Progress**: I have gone through a question in hackerearth
+
+**Thoughts:** Continued coding on hackerearth, solved a problem* 
+
+**Link to work:** [Print Numbers](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/print-the-numbers/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/basic%20of%20IO/Print%20Numbers.py)
