@@ -280,3 +280,13 @@
 **Thoughts:** Continued coding on hackerearth, solved a problem* 
 
 **Link to work:** [Print Numbers](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/print-the-numbers/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/basic%20of%20IO/Print%20Numbers.py)
+
+# 100 Days Of Code - Log
+
+### Day 28: October 10, 2019
+
+**Today's Progress**: I have gone through a question in hackerearth
+
+**Thoughts:** Continued coding on hackerearth, solved a problem* 
+
+**Link to work:** [Teddy and Tweety](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/teddy-and-tweety/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/basic%20of%20IO/Teddy%20and%20Tweety.py)
