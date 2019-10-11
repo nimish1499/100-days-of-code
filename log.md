@@ -290,3 +290,13 @@
 **Thoughts:** Continued coding on hackerearth, solved a problem* 
 
 **Link to work:** [Teddy and Tweety](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/teddy-and-tweety/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/basic%20of%20IO/Teddy%20and%20Tweety.py)
+
+# 100 Days Of Code - Log
+
+### Day 29: October 11, 2019
+
+**Today's Progress**: I have gone through a question in hackerearth
+
+**Thoughts:** Continued coding on hackerearth, solved a problem* 
+
+**Link to work:** [I am Easy](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/i-am-easy/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/basic%20of%20IO/I%20am%20Easy.py)
