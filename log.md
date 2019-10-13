@@ -310,3 +310,13 @@
 **Thoughts:** Continued coding on hackerearth, solved a problem* 
 
 **Link to work:** [Doctor's Secret](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/doctors-secret/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/basic%20of%20IO/Doctor's%20Secret.py)
+
+# 100 Days Of Code - Log
+
+### Day 31: October 13, 2019
+
+**Today's Progress**: I have gone through a question in hackerearth
+
+**Thoughts:** Continued coding on hackerearth, solved a problem* 
+
+**Link to work:** [A Movement](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/a-movement-1/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/basic%20of%20IO/A%20Movement.py)
