@@ -370,3 +370,13 @@
 **Thoughts:** Continued coding on hackerearth, solved a problem* 
 
 **Link to work:** [Array Sum](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/array-sum-2-725368ac/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/basic%20of%20IO/Array%20Sum.py)
+
+# 100 Days Of Code - Log
+
+### Day 37: October 19, 2019
+
+**Today's Progress**: I have gone through a question in hackerearth
+
+**Thoughts:** Continued coding on hackerearth, solved a problem* 
+
+**Link to work:** [Mystery](https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/mystery-30/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/Basic%20of%20Bit%20mainpulation/Mystery.py)
