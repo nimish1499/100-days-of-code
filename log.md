@@ -371,6 +371,7 @@
 
 **Link to work:** [Array Sum](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/array-sum-2-725368ac/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/basic%20of%20IO/Array%20Sum.py)
 
+
 # 100 Days Of Code - Log
 
 ### Day 37: October 19, 2019
@@ -380,3 +381,23 @@
 **Thoughts:** Continued coding on hackerearth, solved a problem* 
 
 **Link to work:** [Mystery](https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/mystery-30/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/Basic%20of%20Bit%20mainpulation/Mystery.py)
+
+# 100 Days Of Code - Log
+
+### Day 38: October 20, 2019
+
+**Today's Progress**: I have gone through a question in hackerearth
+
+**Thoughts:** Continued coding on hackerearth, solved a problem* 
+
+**Link to work:** [Birthday Party](https://www.hackerearth.com/practice/basic-programming/operators/basics-of-operators/practice-problems/algorithm/birthday-party-12/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/Basic%20of%20Operator/Birthday%20Party.py)
+
+# 100 Days Of Code - Log
+
+### Day 39: October 21, 2019
+
+**Today's Progress**: I have gone through a question in hackerearth
+
+**Thoughts:** Continued coding on hackerearth, solved a problem* 
+
+**Link to work:** [Going to office](https://www.hackerearth.com/practice/basic-programming/operators/basics-of-operators/practice-problems/algorithm/going-to-office-e2ef3feb/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/Basic%20of%20Operator/Going%20to%20office.py)
