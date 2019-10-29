@@ -401,3 +401,13 @@
 **Thoughts:** Continued coding on hackerearth, solved a problem* 
 
 **Link to work:** [Going to office](https://www.hackerearth.com/practice/basic-programming/operators/basics-of-operators/practice-problems/algorithm/going-to-office-e2ef3feb/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/Basic%20of%20Operator/Going%20to%20office.py)
+
+# 100 Days Of Code - Log
+
+### Day 40: October, 2019
+
+**Today's Progress**: I have gone through a question in hackerearth
+
+**Thoughts:** Continued coding on hackerearth, solved a problem* 
+
+**Link to work:** [Bricks Game](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/bricks-game-5140869d/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/basic%20of%20IO/Bricks%20Game.cpp)
