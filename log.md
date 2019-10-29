@@ -404,10 +404,20 @@
 
 # 100 Days Of Code - Log
 
-### Day 40: October, 2019
+### Day 40: October 22, 2019
 
 **Today's Progress**: I have gone through a question in hackerearth
 
 **Thoughts:** Continued coding on hackerearth, solved a problem* 
 
 **Link to work:** [Bricks Game](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/bricks-game-5140869d/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/basic%20of%20IO/Bricks%20Game.cpp)
+
+# 100 Days Of Code - Log
+
+### Day 41: October 23, 2019
+
+**Today's Progress**: I have gone through a question in hackerearth
+
+**Thoughts:** Continued coding on hackerearth, solved a problem* 
+
+**Link to work:** [Trailing Zeroes in Factorial](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/trailing-zeroes-in-factorial/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/Basics%20of%20Implementation/Trailing%20Zeroes.py)
