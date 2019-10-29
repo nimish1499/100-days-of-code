@@ -359,7 +359,7 @@
 
 **Thoughts:** Continued coding on hackerearth, solved a problem* 
 
-**Link to work:** [Diwali Celebration](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/diwali-celebration/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/Basics%20of%20Implementation/Diwali%20elebration.py)
+**Link to work:** [Diwali Celebration](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/diwali-celebration/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/Basics%20of%20Implementation/Diwali%20Celebration.py)
 
 # 100 Days Of Code - Log
 
