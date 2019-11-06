@@ -421,3 +421,23 @@
 **Thoughts:** Continued coding on hackerearth, solved a problem* 
 
 **Link to work:** [Trailing Zeroes in Factorial](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/trailing-zeroes-in-factorial/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/Basics%20of%20Implementation/Trailing%20Zeroes.py)
+
+# 100 Days Of Code - Log
+
+### Day 42: October 24, 2019
+
+**Today's Progress**: I have gone through a question in hackerearth
+
+**Thoughts:** Continued coding on hackerearth, solved a problem* 
+
+**Link to work:** [Love Triangle](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/can-you-guess-1/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/Maths/Love%20Triangle.py)
+
+# 100 Days Of Code - Log
+
+### Day 43: October 25, 2019
+
+**Today's Progress**: I have gone through a question in hackerearth
+
+**Thoughts:** Continued coding on hackerearth, solved a problem* 
+
+**Link to work:** [Help Oz](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/a-simple-task/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/Maths/Help%20Oz.py)
