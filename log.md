@@ -441,3 +441,13 @@
 **Thoughts:** Continued coding on hackerearth, solved a problem* 
 
 **Link to work:** [Help Oz](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/a-simple-task/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/Maths/Help%20Oz.py)
+
+# 100 Days Of Code - Log
+
+### Day 44: October 26, 2019
+
+**Today's Progress**: I have gone through a question in hackerearth
+
+**Thoughts:** Continued coding on hackerearth, solved a problem* 
+
+**Link to work:** [Database](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/database-0c7cce47/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/basic%20of%20IO/Database.cpp)
