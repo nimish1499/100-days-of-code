@@ -461,3 +461,13 @@
 **Thoughts:** Continued coding on hackerearth, solved a problem* 
 
 **Link to work:** [War](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/warcakewalk/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/Basics%20of%20Implementation/War.py)
+
+# 100 Days Of Code - Log
+
+### Day 47: October 28, 2019
+
+**Today's Progress**: I have gone through a question in hackerearth
+
+**Thoughts:** Continued coding on hackerearth, solved a problem* 
+
+**Link to work:** [Saviour](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/the-savior-3/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/Basics%20of%20Implementation/Saviour.py)
