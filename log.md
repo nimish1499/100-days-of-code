@@ -414,7 +414,7 @@
 
 # 100 Days Of Code - Log
 
-### Day 41: October 23, 2019
+### Day 41: October 24, 2019
 
 **Today's Progress**: I have gone through a question in hackerearth
 
@@ -424,7 +424,7 @@
 
 # 100 Days Of Code - Log
 
-### Day 42: October 24, 2019
+### Day 42: October 26, 2019
 
 **Today's Progress**: I have gone through a question in hackerearth
 
@@ -434,7 +434,7 @@
 
 # 100 Days Of Code - Log
 
-### Day 43: October 25, 2019
+### Day 43: October 28, 2019
 
 **Today's Progress**: I have gone through a question in hackerearth
 
@@ -444,7 +444,7 @@
 
 # 100 Days Of Code - Log
 
-### Day 44: October 26, 2019
+### Day 44: October 29, 2019
 
 **Today's Progress**: I have gone through a question in hackerearth
 
@@ -454,7 +454,7 @@
 
 # 100 Days Of Code - Log
 
-### Day 46: October 27, 2019
+### Day 46: October 30, 2019
 
 **Today's Progress**: I have gone through a question in hackerearth
 
@@ -464,7 +464,7 @@
 
 # 100 Days Of Code - Log
 
-### Day 47: October 28, 2019
+### Day 47: November 1, 2019
 
 **Today's Progress**: I have gone through a question in hackerearth
 
@@ -474,10 +474,20 @@
 
 # 100 Days Of Code - Log
 
-### Day 48: October 29, 2019
+### Day 48: November 3, 2019
 
 **Today's Progress**: I have gone through a question in hackerearth
 
 **Thoughts:** Continued coding on hackerearth, solved a problem* 
 
 **Link to work:** [Addition ain't simple](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/addition-aint-simple/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/Basics%20of%20Implementation/Addition%20ain't%20simple.py)
+
+# 100 Days Of Code - Log
+
+### Day 49: November 4, 2019
+
+**Today's Progress**: I have gone through a question in hackerearth
+
+**Thoughts:** Continued coding on hackerearth, solved a problem* 
+
+**Link to work:** [Total Cost](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/airfares-dbef7f12/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/Basics%20of%20Implementation/Total%20Cost.py)
