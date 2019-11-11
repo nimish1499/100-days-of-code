@@ -491,3 +491,23 @@
 **Thoughts:** Continued coding on hackerearth, solved a problem* 
 
 **Link to work:** [Total Cost](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/airfares-dbef7f12/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/Basics%20of%20Implementation/Total%20Cost.py)
+
+# 100 Days Of Code - Log
+
+### Day 50: November 5, 2019
+
+**Today's Progress**: I have gone through a question in hackerearth
+
+**Thoughts:** Continued coding on hackerearth, solved a problem* 
+
+**Link to work:** [Jadoo Hates Numbers](https://www.hackerearth.com/practice/python/getting-started/input-and-output/practice-problems/golf/jadoo-hates-numbers/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/Python/Jadoo%20Hates%20Numbers.py)
+
+# 100 Days Of Code - Log
+
+### Day 51: November 6, 2019
+
+**Today's Progress**: I have gone through a question in hackerearth
+
+**Thoughts:** Continued coding on hackerearth, solved a problem* 
+
+**Link to work:** [13 Reasons](https://www.hackerearth.com/practice/python/getting-started/input-and-output/practice-problems/algorithm/its-easy-1/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/Python/13%20Reasons.py)
