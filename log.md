@@ -511,3 +511,13 @@
 **Thoughts:** Continued coding on hackerearth, solved a problem* 
 
 **Link to work:** [13 Reasons](https://www.hackerearth.com/practice/python/getting-started/input-and-output/practice-problems/algorithm/its-easy-1/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/Python/13%20Reasons.py)
+
+# 100 Days Of Code - Log
+
+### Day 52: November 7, 2019
+
+**Today's Progress**: I have gone through a question in hackerearth
+
+**Thoughts:** Continued coding on hackerearth, solved a problem* 
+
+**Link to work:** [Jadoo and DNA](https://www.hackerearth.com/practice/python/getting-started/input-and-output/practice-problems/golf/jadoo-and-dna-transcription/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/Python/Jadoo%20and%20DNA.py)
