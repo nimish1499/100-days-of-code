@@ -521,3 +521,23 @@
 **Thoughts:** Continued coding on hackerearth, solved a problem* 
 
 **Link to work:** [Jadoo and DNA](https://www.hackerearth.com/practice/python/getting-started/input-and-output/practice-problems/golf/jadoo-and-dna-transcription/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/Python/Jadoo%20and%20DNA.py)
+
+# 100 Days Of Code - Log
+
+### Day 53: November 8, 2019
+
+**Today's Progress**: I have gone through a question in hackerearth
+
+**Thoughts:** Continued coding on hackerearth, solved a problem* 
+
+**Link to work:** [Jadoo and DNA Transcription](https://www.hackerearth.com/practice/python/getting-started/input-and-output/practice-problems/golf/jadoo-and-dna-transcription/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/Python/Jadoo%20and%20DNA.py)
+
+# 100 Days Of Code - Log
+
+### Day 54: November 9, 2019
+
+**Today's Progress**: I have gone through a question in hackerearth
+
+**Thoughts:** Continued coding on hackerearth, solved a problem* 
+
+**Link to work:** [Cost of Ballonos](hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/mojtaba-prepares-contest-29b2a044/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/basic%20of%20IO/Cost%20of%20Balloons.py)
