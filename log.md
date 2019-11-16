@@ -541,3 +541,13 @@
 **Thoughts:** Continued coding on hackerearth, solved a problem* 
 
 **Link to work:** [Cost of Ballonos](hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/mojtaba-prepares-contest-29b2a044/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/basic%20of%20IO/Cost%20of%20Balloons.py)
+
+# 100 Days Of Code - Log
+
+### Day 54: November 9, 2019
+
+**Today's Progress**: I have gone through a question in hackerearth
+
+**Thoughts:** Continued coding on hackerearth, solved a problem* 
+
+**Link to work:** [Find Me](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/find-me-67/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/Maths/Find%20Me.py)
