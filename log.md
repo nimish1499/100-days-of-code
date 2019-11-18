@@ -570,4 +570,4 @@
 
 **Thoughts:** Continued coding on hackerearth, solved a problem* 
 
-**Link to work:** []() [- solution]()
+**Link to work:** [Can you Guess](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/can-you-guess/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/Maths/Can%20you%20Guess.py)
