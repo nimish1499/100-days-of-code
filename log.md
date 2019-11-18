@@ -551,3 +551,23 @@
 **Thoughts:** Continued coding on hackerearth, solved a problem* 
 
 **Link to work:** [Find Me](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/find-me-67/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/Maths/Find%20Me.py)
+
+# 100 Days Of Code - Log
+
+### Day 56: November 11, 2019
+
+**Today's Progress**: I have gone through a question in hackerearth
+
+**Thoughts:** Continued coding on hackerearth, solved a problem* 
+
+**Link to work:** [Help Oz](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/a-simple-task/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/Maths/Help%20Oz.py)
+
+# 100 Days Of Code - Log
+
+### Day 57: November 12, 2019
+
+**Today's Progress**: I have gone through a question in hackerearth
+
+**Thoughts:** Continued coding on hackerearth, solved a problem* 
+
+**Link to work:** []() [- solution]()
