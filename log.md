@@ -571,3 +571,23 @@
 **Thoughts:** Continued coding on hackerearth, solved a problem* 
 
 **Link to work:** [Can you Guess](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/can-you-guess/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/Maths/Can%20you%20Guess.py)
+
+# 100 Days Of Code - Log
+
+### Day 58: November 13, 2019
+
+**Today's Progress**: I have gone through a question in hackerearth
+
+**Thoughts:** Solved a question in November circuit* 
+
+**Link to work:** [Zoo](https://www.hackerearth.com/challenges/competitive/november-circuits-19/algorithm/is-zoo-f6f309e7) [- solution](https://github.com/nimish1499/Hacker-earth-competition/blob/master/November%20Circuit%2019/Zoos.py)
+
+# 100 Days Of Code - Log
+
+### Day 59: November 14, 2019
+
+**Today's Progress**: I have gone through a question in hackerearth
+
+**Thoughts:** Continued coding on hackerearth, solved a problem* 
+
+**Link to work:** [Calculate the Power](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/calculate-the-power/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/Maths/Calculate%20poer.py)
