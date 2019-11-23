@@ -107,8 +107,6 @@
 
 **Link to work:** [Little Jhool](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/psychic-powers/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/Basics%20of%20Implementation/Little%20Jhool.py)
 
-**Link to work:** [Ladderophilia](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/ladderophilia/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/basic%20of%20IO/Ladderophilia.py)
-
 # 100 Days Of Code - Log
 
 ### Day 11: September 23, 2019
@@ -591,3 +589,13 @@
 **Thoughts:** Continued coding on hackerearth, solved a problem* 
 
 **Link to work:** [Calculate the Power](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/calculate-the-power/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/Maths/Calculate%20poer.py)
+
+# 100 Days Of Code - Log
+
+### Day : November 1, 2019
+
+**Today's Progress**: I have gone through a question in hackerearth
+
+**Thoughts:** Continued coding on hackerearth, solved a problem* 
+
+**Link to work:** [Ladderophilia](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/ladderophilia/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/basic%20of%20IO/Ladderophilia.py)
