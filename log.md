@@ -18,8 +18,6 @@
 
 **Link to work:** [Compress String - Hackererath](https://www.hackerearth.com/challenges/college/td-cse2/algorithm/d41b909e4ac0483a80c2a2efefe2d95a/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/Normal%20questions/Compress%20String.py)
 
-**Link to work:** [Toggle String - Hackererath](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/modify-the-string/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/basic%20of%20IO/Toggle.py)
-
 # 100 Days Of Code - Log
 
 ### Day 3: September 15, 2019
@@ -592,10 +590,21 @@
 
 # 100 Days Of Code - Log
 
-### Day : November 1, 2019
+### Day : November 16, 2019
 
 **Today's Progress**: I have gone through a question in hackerearth
 
 **Thoughts:** Continued coding on hackerearth, solved a problem* 
 
 **Link to work:** [Ladderophilia](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/ladderophilia/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/basic%20of%20IO/Ladderophilia.py)
+
+# 100 Days Of Code - Log
+
+### Day : November 17, 2019
+
+**Today's Progress**: I have gone through a question in hackerearth
+
+**Thoughts:** Continued coding on hackerearth, solved a problem* 
+
+**Link to work:** [Toggle String - Hackererath](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/modify-the-string/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/basic%20of%20IO/Toggle.py)
+
