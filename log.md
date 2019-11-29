@@ -115,8 +115,6 @@
 
 **Link to work:** [Life of Universe](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/life-the-universe-and-everything/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/basic%20of%20IO/Life.py)
 
-**Link to work:** [Goki Breakup](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/tds-and-his-breakup/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/basic%20of%20IO/Goki%20Relationship.py)
-
 # 100 Days Of Code - Log
 
 ### Day 12: September 24, 2019
@@ -590,7 +588,7 @@
 
 # 100 Days Of Code - Log
 
-### Day : November 16, 2019
+### Day 60: November 16, 2019
 
 **Today's Progress**: I have gone through a question in hackerearth
 
@@ -600,7 +598,7 @@
 
 # 100 Days Of Code - Log
 
-### Day : November 17, 2019
+### Day 61: November 17, 2019
 
 **Today's Progress**: I have gone through a question in hackerearth
 
@@ -608,3 +606,22 @@
 
 **Link to work:** [Toggle String - Hackererath](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/modify-the-string/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/basic%20of%20IO/Toggle.py)
 
+# 100 Days Of Code - Log
+
+### Day 62: November 18, 2019
+
+**Today's Progress**: I have gone through some practice question in hackerearth
+
+**Thoughts:** Continued coding on hackerearth, solved a problem* 
+
+**Link to work:** [Goki Breakup](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/tds-and-his-breakup/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/basic%20of%20IO/Goki%20Relationship.py)
+
+# 100 Days Of Code - Log
+
+### Day 63: November 18, 2019
+
+**Today's Progress**: I have gone through some practice question in hackerearth
+
+**Thoughts:** Continued coding on hackerearth, solved a problem* 
+
+**Link to work:** [Complete the Syllabus](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/complete-the-syllabus/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/Basics%20of%20Implementation/Complete%20Syllabus.py)
