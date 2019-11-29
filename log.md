@@ -73,8 +73,6 @@
 
 **Link to work:** [Lift Queries](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/lift-queries/description/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/basic%20of%20IO/Lift.py)
 
-**Link to work:** [Book of Potion making](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/sum-it-if-you-can-4867f851/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/basic%20of%20IO/Book%20of%20Potion%20Making.py)
-
 # 100 Days Of Code - Log
 
 ### Day 8: September 20, 2019
@@ -625,3 +623,13 @@
 **Thoughts:** Continued coding on hackerearth, solved a problem* 
 
 **Link to work:** [Complete the Syllabus](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/complete-the-syllabus/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/Basics%20of%20Implementation/Complete%20Syllabus.py)
+
+# 100 Days Of Code - Log
+
+### Day 64: November 20, 2019
+
+**Today's Progress**: I have gone through some practice question in hackerearth
+
+**Thoughts:** Continued coding on hackerearth, solved a problem* 
+
+**Link to work:** [Book of Potion making](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/sum-it-if-you-can-4867f851/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/basic%20of%20IO/Book%20of%20Potion%20Making.py)
