@@ -28,8 +28,6 @@
 
 **Link to work:** [Palindrome String](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/palindrome-check-2/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/basic%20of%20IO/Palindrome.py)
 
-**Link to work:** [Prime Number](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/prime-number-8/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/basic%20of%20IO/Prime.py)
-
 # 100 Days Of Code - Log
 
 ### Day 4: September 16, 2019
@@ -653,3 +651,11 @@
 **Thoughts:** Continued coding on hackerearth, solved a problem* 
 
 **Link to work:** [Riya Birthday Party](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/riyas-birthday-party-1/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/Maths/Riya%20Birthday%20party.py)
+
+### Day 67: November 26, 2019
+
+**Today's Progress**: I have gone through some practice question in hackerearth
+
+**Thoughts:** Continued coding on hackerearth, solved a problem* 
+
+**Link to work:** [Prime Number](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/prime-number-8/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/basic%20of%20IO/Prime.py)
