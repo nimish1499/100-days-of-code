@@ -643,3 +643,13 @@
 **Thoughts:** Continued coding on hackerearth, solved a problem* 
 
 **Link to work:** [Anshuli and Party](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/sheero-and-the-party/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/Maths/Anshuli%20and%20Party.py)
+
+# 100 Days Of Code - Log
+
+### Day 66: November 24, 2019
+
+**Today's Progress**: I have gone through some practice question in hackerearth
+
+**Thoughts:** Continued coding on hackerearth, solved a problem* 
+
+**Link to work:** [Riya Birthday Party](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/riyas-birthday-party-1/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/Maths/Riya%20Birthday%20party.py)
