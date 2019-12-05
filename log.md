@@ -659,3 +659,11 @@
 **Thoughts:** Continued coding on hackerearth, solved a problem* 
 
 **Link to work:** [Prime Number](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/prime-number-8/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/basic%20of%20IO/Prime.py)
+
+### Day 68: November 27, 2019
+
+**Today's Progress**: I have gone through some practice question in hackerearth
+
+**Thoughts:** Continued coding on hackerearth, solved a problem* 
+
+**Link to work:** [Solution of Prime](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-2/practice-problems/algorithm/sum-of-primes-7/) [- solution](https://github.com/nimish1499/code/blob/master/hackerearth/Maths/Sum%20of%20Primes.cpp)
